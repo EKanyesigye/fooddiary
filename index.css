@@ -1,0 +1,37 @@
+.bigbody {
+  background-image: url("image.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+h1,
+h2 {
+  color: rgba(255, 166, 0, 0.87);
+  text-align: center;
+  font-family: "Arial Black";
+  font-size: 16px;
+}
+
+body {
+  text-align: center;
+  font-size: 20px;
+}
+
+form {
+  display: inline-block;
+  padding: 10px;
+  text-align: center;
+}
+
+div.form {
+  display: block;
+  text-align: center;
+}
+
+input {
+  border: solid 3px greenyellow;
+  border-radius: 5px;
+  text-align: justify;
+}
